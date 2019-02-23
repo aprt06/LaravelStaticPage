@@ -8,9 +8,6 @@
 // Bootstrap
 @import '~bootstrap/scss/bootstrap';
 
-.clearboth{
-  clear: both;
-}
 
 .navbar-laravel {
   background-color: #fff;
@@ -31,7 +28,6 @@
 
 .logo-container{
   display: inline-block;
-  float:left;
 }
 
 .box-cart{

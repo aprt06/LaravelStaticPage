@@ -10655,10 +10655,6 @@ a.text-dark:focus {
   }
 }
 
-.clearboth {
-  clear: both;
-}
-
 .navbar-laravel {
   background-color: #fff;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
@@ -10679,7 +10675,6 @@ a.text-dark:focus {
 
 .logo-container {
   display: inline-block;
-  float: left;
 }
 
 .box-cart {
